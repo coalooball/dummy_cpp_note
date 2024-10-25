@@ -1,0 +1,6 @@
+[book]
+authors = ["coalooball"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Dummy C++ Note"
