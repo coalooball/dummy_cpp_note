@@ -3,4 +3,6 @@
 
 # Notes
 
-- [1](./1.md)
+- [Hello World](./hello_world.md)
+- [Python built-in modules](./python_built_in_modules)
+- [7z](./7z.md)
